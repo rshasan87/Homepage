@@ -1,0 +1,19 @@
+/*
+Main Stylesheet
+index.css
+*/
+
+body {
+  background: gray;
+  padding: 25em;
+}
+
+/* About Me */
+html.about body {
+  background: red;
+}
+
+/* Resume */
+html.resume body {
+  background: green;
+}
